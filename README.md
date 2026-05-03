@@ -1,13 +1,13 @@
-![1](screenshots/1.png)
+![1](Screenshot/1.png)
 
-![2](screenshots/2.png)
+![2](Screenshot/2.png)
 
-![3](screenshots/3.png)
+![3](Screenshot/3.png)
 
-![4](screenshots/4.png)
+![4](Screenshot/4.png)
 
-![5](screenshots/5.png)
+![5](Screenshot/5.png)
 
-![6](screenshots/6.png)
+![6](Screenshot/6.png)
 
-![7](screenshots/7.png)
+![7](Screenshot/7.png)
