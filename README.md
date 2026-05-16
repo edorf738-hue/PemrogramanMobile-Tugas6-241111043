@@ -1,13 +1,5 @@
-![1](Screenshot/1.png)
+# 📝 Tugas 6 — Edo Rizki Firnando - 241111043
 
-![2](Screenshot/2.png)
-
-![3](Screenshot/3.png)
-
-![4](Screenshot/4.png)
-
-![5](Screenshot/5.png)
-
-![6](Screenshot/6.png)
-
-![7](Screenshot/7.png)
+## 🔗 Source Code
+Kode lengkap dari tugas ini tersedia di repository progress:
+👉 [Lihat Source Code](https://github.com/edorf738-hue/SatwalayaSolo.git)
